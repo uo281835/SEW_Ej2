@@ -1,24 +1,30 @@
 /*Especificidad: 001*/
 body {
     color: #b60000;
-    background-color: rgb(244, 232, 0);
+    background-color: rgb(255, 255, 255);
+
 }
   /*Especificidad: 001*/
   h1 {
-    color: #fff;    
+    color: rgb(82, 0, 48);  
+    font-size: 4em;  
     }
     h2 {
-        color: rgb(0, 15, 91);    
+        color: rgb(0, 15, 91);   
+        font-size: 4em;  
         }
         
          h3 {
-    color: rgb(0, 163, 24);    
+    color: rgb(0, 48, 7);  
+    font-size: 4em;   
     }
     h4 {
-        color: rgb(0, 0, 0);       
+        color: rgb(0, 0, 0);  
+        font-size: 4em;      
         }
  p {
-    color: rgb(218, 199, 0);  
+    color: rgb(61, 56, 0);  
+    font-size: 4em; 
     }
   
   
