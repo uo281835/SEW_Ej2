@@ -1,0 +1,25 @@
+/*Especificidad: 001*/
+body {
+    color: #b60000;
+    background-color: rgb(244, 232, 0);
+}
+  /*Especificidad: 001*/
+  h1 {
+    color: #fff;    
+    }
+    h2 {
+        color: rgb(0, 15, 91);    
+        }
+        
+         h3 {
+    color: rgb(0, 163, 24);    
+    }
+    h4 {
+        color: rgb(0, 0, 0);       
+        }
+ p {
+    color: rgb(218, 199, 0);  
+    }
+  
+  
+  

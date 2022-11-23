@@ -1,0 +1,15 @@
+document.writeln("<p> Versión del navegador");
+document.writeln(infoNav.version);
+document.writeln("</p>");
+document.writeln("<p>Plataforma");
+document.writeln(infoNav.plat);
+document.writeln("</p>");
+document.writeln("<p> Vendedor");
+document.writeln(infoNav.vendedor);
+document.writeln("</p>");
+document.writeln("<p> Agente");
+document.writeln(infoNav.agente);
+document.writeln("</p>");
+document.writeln("<p> Enabled");
+document.writeln(infoNav.enabled);
+document.writeln("</p>");
